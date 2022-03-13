@@ -1,0 +1,24 @@
+{
+  "name": "EmoTracker Official Packages",
+  "packages": [
+    {
+      "name": "Ratchet and Clank Randomizer Item and Map Tracker",
+      "author": "Myth197 and DukeDragon28",
+      "game_name": "Ratchet and Clank Randomizer",
+      "version": "1.0.0.0",
+      "flags": [ "map" ],
+      "uid": "r&crando_itemtracker_myth_duke",
+      "link": "https://github.com/Myth197/RAC-Rando-Tracker/archive/refs/heads/main.zip",
+      "variants": [
+        {
+          "name": "Standard Map Tracker",
+          "flags": [ "map" ]
+        },
+        {
+          "name": "Item Only Tracker",
+          "flags": [ "" ]
+        }
+      ]
+    }
+  ]
+}
