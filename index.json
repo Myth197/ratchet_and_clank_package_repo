@@ -1,9 +1,9 @@
 {
-  "name": "EmoTracker Official Packages",
+  "name": "Tracker by Myth197 & DukeDragon28",
   "packages": [
     {
       "name": "Ratchet and Clank Randomizer Item and Map Tracker",
-      "author": "Myth197 and DukeDragon28",
+      "author": "Myth197, DukeDragon28",
       "game_name": "Ratchet and Clank Randomizer",
       "version": "1.0.0.0",
       "flags": [ "map" ],
