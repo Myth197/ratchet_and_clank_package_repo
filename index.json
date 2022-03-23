@@ -4,7 +4,7 @@
     {
       "name": "Ratchet and Clank Randomizer Item and Map Tracker",
       "author": "Myth197, DukeDragon28",
-      "game_name": "Ratchet and Clank Randomizer",
+      "game_name": "Ratchet and Clank",
       "version": "0.0.0.3",
       "flags": [ "map" ],
       "uid": "r&crando_itemtracker_myth_duke",
