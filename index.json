@@ -12,7 +12,7 @@
       "variants": [
         {
           "name": "Standard Map Tracker",
-          "flags": [ "map" ]
+          "flags": [ "map" , "pins"]
         },
         {
           "name": "Item Only Tracker",
