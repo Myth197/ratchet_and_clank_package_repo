@@ -1,0 +1,12 @@
+{
+    "versions": [
+        {
+            "package_version": "1.1.2.3",
+            "download_url": "https://github.com/Myth197/RAC-Rando-Tracker/blob/main/r&crando_itemtracker_myth_duke.zip?raw=true",
+            "sha256": "",
+            "changelog": [
+                "initial version"
+            ]
+        }
+    ]
+}
